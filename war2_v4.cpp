@@ -1,7 +1,7 @@
 /*
 File: war2_v4.cpp
 Author: Jeremiah Fortune
-Created: August 1, 2026
+Created: August 1, 2026 2:00PM
 Purpose: Add betting, a shop, default arguments, static variables,
          overloaded functions, and a quit option
 */
